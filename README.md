@@ -1,31 +1,21 @@
 # Coffee Corner :bulb: 
 <a name="readme-top"></a>
-- Discover The Taste Of Real Coffee.
+- Coffee Corner a Website Design Using HTML - CSS - JavaScript-Swup.
 
-## 📷  Demo Gif
-![image](https://github.com/Hager-elhwarii/Dictionary-App/assets/80959882/aa3a2d2b-019f-469d-894a-0b127e01198b)
-
-## 🚀 Deployment
-  - [Demo Link]( https://dictionary-app-dottie.netlify.app/)
-
-## 📝 Features
-
--  Search for words.
--  Display words meaning.
--  Display words pronunciation.
--  Play audio pronunciation.
--  Display usage example.
--  Fully responsive.
+## :camera_flash: Demo Gif
+![Coffe Corner](https://github.com/Hager-elhwarii/Coffee-Corner/assets/80959882/bb0bb3df-8b55-46fc-af1e-e4dd785b1478)
 
 ## 💻 Tech stack
+
 - Html
 - CSS
 - JavaScript
+- Swup
 
-## ⚙️ API Reference
+## ⚙️ Swup Installation
 
 ```  
-https://api.dictionaryapi.dev/api/v2/entries/en/<word>
+npm install swup
 ```
 
 ##  🔐 Run locally 
@@ -35,7 +25,7 @@ git clone https://github.com/Hager-elhwarii/Coffee-Corner.git
 ```
 
 ## 📌 Acknowledgments
-- [Font Awesome](https://fontawesome.com/)
+- [Swup](https://swup.js.org/getting-started/how-it-works/)
 - [Google Fonts](http://hager.a.elhawary@gmail.com/)
 - [Netlify](https://www.netlify.com/)
 
