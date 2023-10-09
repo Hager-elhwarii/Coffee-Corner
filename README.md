@@ -1,9 +1,9 @@
 # Coffee Corner :bulb: 
 <a name="readme-top"></a>
-- Coffee Corner a Website Design Using HTML - CSS - JavaScript-Swup.
+- Coffee Corner a Website Design Using HTML-CSS-JavaScript-Swup.
 
-## :camera_flash: Demo Gif
-![Coffe-Corner](https://github.com/Hager-elhwarii/Coffee-Corner/assets/80959882/dbb0c30b-37d2-4d2a-8c13-3b92e6165ba0)
+## :camera_flash: Demo GIF
+![Coffee__Corner](https://github.com/Hager-elhwarii/Coffee-Corner/assets/80959882/ad92141a-b727-4604-9587-485a9a18c60b)
 
 ## 💻 Tech stack
 
