@@ -3,7 +3,7 @@
 - Coffee Corner a Website Design Using HTML - CSS - JavaScript-Swup.
 
 ## :camera_flash: Demo Gif
-![Coffe Corner](https://github.com/Hager-elhwarii/Coffee-Corner/assets/80959882/bb0bb3df-8b55-46fc-af1e-e4dd785b1478)
+![Coffe-Corner](https://github.com/Hager-elhwarii/Coffee-Corner/assets/80959882/dbb0c30b-37d2-4d2a-8c13-3b92e6165ba0)
 
 ## 💻 Tech stack
 
